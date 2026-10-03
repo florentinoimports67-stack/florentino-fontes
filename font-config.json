@@ -26,6 +26,11 @@
       "cat": "script"
     },
     {
+      "id": 7,
+      "name": "Pacifico",
+      "cat": "script"
+    },
+    {
       "id": 8,
       "name": "Kaushan Script",
       "cat": "script"
@@ -67,5 +72,5 @@
     }
   ],
   "whatsapp": "5579998282200",
-  "updatedAt": "2026-10-03T03:06:30.033Z"
+  "updatedAt": "2026-10-03T03:14:45.785Z"
 }
