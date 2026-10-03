@@ -1,0 +1,65 @@
+{
+  "fonts": [
+    {
+      "id": 1,
+      "name": "Great Vibes",
+      "cat": "script"
+    },
+    {
+      "id": 2,
+      "name": "Alex Brush",
+      "cat": "script"
+    },
+    {
+      "id": 3,
+      "name": "Allura",
+      "cat": "script"
+    },
+    {
+      "id": 4,
+      "name": "Parisienne",
+      "cat": "script"
+    },
+    {
+      "id": 6,
+      "name": "Dancing Script",
+      "cat": "script"
+    },
+    {
+      "id": 8,
+      "name": "Kaushan Script",
+      "cat": "script"
+    },
+    {
+      "id": 19,
+      "name": "Cinzel",
+      "cat": "elegant"
+    },
+    {
+      "id": 21,
+      "name": "Playfair Display",
+      "cat": "elegant"
+    },
+    {
+      "id": 27,
+      "name": "Montserrat",
+      "cat": "modern"
+    },
+    {
+      "id": 28,
+      "name": "Poppins",
+      "cat": "modern"
+    },
+    {
+      "id": 37,
+      "name": "Bebas Neue",
+      "cat": "strong"
+    },
+    {
+      "id": 44,
+      "name": "Caveat",
+      "cat": "hand"
+    }
+  ],
+  "whatsapp": "5579998282200"
+}
