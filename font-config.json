@@ -56,16 +56,6 @@
       "cat": "elegant"
     },
     {
-      "id": 27,
-      "name": "Montserrat",
-      "cat": "modern"
-    },
-    {
-      "id": 28,
-      "name": "Poppins",
-      "cat": "modern"
-    },
-    {
       "id": 37,
       "name": "Bebas Neue",
       "cat": "strong"
@@ -77,5 +67,5 @@
     }
   ],
   "whatsapp": "5579998282200",
-  "updatedAt": "2026-10-03T03:04:06.729Z"
+  "updatedAt": "2026-10-03T03:05:31.829Z"
 }
