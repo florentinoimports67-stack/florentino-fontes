@@ -1,1 +1,1 @@
-window.FLORENTINO_CONFIG={whatsapp:"",mensagemInicial:"Olá! Escolhi minha personalização na página da Florentino Imports."};
+window.FLORENTINO_CONFIG={whatsapp:"5579998282200",mensagemInicial:"Olá! Escolhi minha personalização na página da Florentino Imports."};
