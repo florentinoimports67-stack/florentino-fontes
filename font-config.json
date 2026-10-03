@@ -31,6 +31,16 @@
       "cat": "script"
     },
     {
+      "id": 12,
+      "name": "Tangerine",
+      "cat": "script"
+    },
+    {
+      "id": 13,
+      "name": "Marck Script",
+      "cat": "script"
+    },
+    {
       "id": 14,
       "name": "Yellowtail",
       "cat": "script"
@@ -67,5 +77,5 @@
     }
   ],
   "whatsapp": "5579998282200",
-  "updatedAt": "2026-10-03T02:51:33.380Z"
+  "updatedAt": "2026-10-03T02:52:36.546Z"
 }
