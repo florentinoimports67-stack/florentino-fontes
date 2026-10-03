@@ -31,6 +31,11 @@
       "cat": "script"
     },
     {
+      "id": 14,
+      "name": "Yellowtail",
+      "cat": "script"
+    },
+    {
       "id": 19,
       "name": "Cinzel",
       "cat": "elegant"
@@ -61,5 +66,6 @@
       "cat": "hand"
     }
   ],
-  "whatsapp": "5579998282200"
+  "whatsapp": "5579998282200",
+  "updatedAt": "2026-10-03T02:51:33.380Z"
 }
