@@ -1,5 +1,5 @@
 const input=document.getElementById('customerName');const btn=document.getElementById('sendBtn');const choice=document.getElementById('choice');const choicePreview=document.getElementById('choicePreview');const choiceName=document.getElementById('choiceName');let selected=null;let publicConfig=window.FLORENTINO_CONFIG||{};
-function typed(){return input.value.trim()||'Érica'}
+function typed(){return input.value.trim()||'Florentino Imports'}
 function fitFontPreview(el){let size=34;el.style.fontSize=size+'px';while(el.scrollWidth>el.clientWidth&&size>13){size--;el.style.fontSize=size+'px'}}
 function refreshNames(){document.querySelectorAll('.font-preview').forEach(el=>{el.textContent=typed();requestAnimationFrame(()=>fitFontPreview(el))});if(selected)choicePreview.textContent=typed()}
 function bindCards(){const cards=[...document.querySelectorAll('.font-card')];cards.forEach(card=>card.onclick=()=>{cards.forEach(c=>c.classList.remove('on'));card.classList.add('on');selected={id:card.dataset.id,font:card.dataset.font};choice.classList.remove('hidden');choicePreview.textContent=typed();choicePreview.style.fontFamily='"'+selected.font+'", sans-serif';choiceName.textContent='Fonte '+String(selected.id).padStart(2,'0')+' · '+selected.font;btn.disabled=false})}
