@@ -3,69 +3,89 @@
     {
       "id": 1,
       "name": "Great Vibes",
-      "cat": "script"
+      "cat": "script",
+      "custom": false
     },
     {
       "id": 2,
       "name": "Alex Brush",
-      "cat": "script"
+      "cat": "script",
+      "custom": false
     },
     {
       "id": 3,
       "name": "Allura",
-      "cat": "script"
+      "cat": "script",
+      "custom": false
     },
     {
       "id": 4,
       "name": "Parisienne",
-      "cat": "script"
+      "cat": "script",
+      "custom": false
     },
     {
       "id": 6,
       "name": "Dancing Script",
-      "cat": "script"
+      "cat": "script",
+      "custom": false
     },
     {
       "id": 8,
       "name": "Kaushan Script",
-      "cat": "script"
+      "cat": "script",
+      "custom": false
     },
     {
       "id": 12,
       "name": "Tangerine",
-      "cat": "script"
+      "cat": "script",
+      "custom": false
     },
     {
       "id": 13,
       "name": "Marck Script",
-      "cat": "script"
+      "cat": "script",
+      "custom": false
     },
     {
       "id": 14,
       "name": "Yellowtail",
-      "cat": "script"
+      "cat": "script",
+      "custom": false
     },
     {
       "id": 19,
       "name": "Cinzel",
-      "cat": "elegant"
+      "cat": "elegant",
+      "custom": false
     },
     {
       "id": 21,
       "name": "Playfair Display",
-      "cat": "elegant"
+      "cat": "elegant",
+      "custom": false
     },
     {
-      "id": 37,
+      "id": 33,
       "name": "Bebas Neue",
-      "cat": "strong"
+      "cat": "strong",
+      "custom": false
     },
     {
-      "id": 44,
+      "id": 39,
       "name": "Caveat",
-      "cat": "hand"
+      "cat": "hand",
+      "custom": false
+    },
+    {
+      "id": 42,
+      "name": "Amsterdam",
+      "cat": "custom",
+      "custom": true,
+      "url": "fonts/42-amsterdam.ttf"
     }
   ],
   "whatsapp": "5579998282200",
-  "updatedAt": "2026-10-03T04:11:33.810Z"
+  "updatedAt": "2026-10-04T05:50:54.243Z"
 }
