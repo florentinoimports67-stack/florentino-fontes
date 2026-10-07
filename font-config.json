@@ -65,8 +65,106 @@
       "name": "Caveat",
       "cat": "hand",
       "custom": false
+    },
+    {
+      "id": 38,
+      "name": "Amsterdam",
+      "cat": "custom",
+      "custom": true,
+      "url": "fonts/38-amsterdam.ttf"
+    },
+    {
+      "id": 41,
+      "name": "Madinah Authentic",
+      "cat": "custom",
+      "custom": true,
+      "url": "fonts/41-madinah-authentic.ttf"
+    },
+    {
+      "id": 42,
+      "name": "Michland Script",
+      "cat": "custom",
+      "custom": true,
+      "url": "fonts/42-michland-script.ttf"
+    },
+    {
+      "id": 43,
+      "name": "Wedding in the Starlight",
+      "cat": "custom",
+      "custom": true,
+      "url": "fonts/43-wedding-in-the-starlight.ttf"
+    },
+    {
+      "id": 44,
+      "name": "WestbrookTag PERSONAL USE ONLY",
+      "cat": "custom",
+      "custom": true,
+      "url": "fonts/44-westbrooktag-personal-use-only.ttf"
+    },
+    {
+      "id": 46,
+      "name": "Amelina Script",
+      "cat": "custom",
+      "custom": true,
+      "url": "fonts/46-amelina-script.ttf"
+    },
+    {
+      "id": 48,
+      "name": "Halimun",
+      "cat": "custom",
+      "custom": true,
+      "url": "fonts/48-halimun.ttf"
+    },
+    {
+      "id": 49,
+      "name": "High Spirited",
+      "cat": "custom",
+      "custom": true,
+      "url": "fonts/49-high-spirited.ttf"
+    },
+    {
+      "id": 50,
+      "name": "JunkyStyle Regular",
+      "cat": "custom",
+      "custom": true,
+      "url": "fonts/50-junkystyle-regular.ttf"
+    },
+    {
+      "id": 53,
+      "name": "FuturaCyrillicLight",
+      "cat": "custom",
+      "custom": true,
+      "url": "fonts/53-futuracyrilliclight.ttf"
+    },
+    {
+      "id": 54,
+      "name": "Herlando",
+      "cat": "custom",
+      "custom": true,
+      "url": "fonts/54-herlando.otf"
+    },
+    {
+      "id": 55,
+      "name": "Lucian Schoenschrift CAT",
+      "cat": "custom",
+      "custom": true,
+      "url": "fonts/55-lucian-schoenschrift-cat.ttf"
+    },
+    {
+      "id": 56,
+      "name": "Pattaya Regular",
+      "cat": "custom",
+      "custom": true,
+      "url": "fonts/56-pattaya-regular.ttf"
+    },
+    {
+      "id": 57,
+      "name": "snellroundhand bold",
+      "cat": "custom",
+      "custom": true,
+      "url": "fonts/57-snellroundhand-bold.otf"
     }
   ],
   "whatsapp": "5579998282200",
-  "updatedAt": "2026-10-06T20:25:57.568Z"
+  "updatedAt": "2026-10-07T01:10:58.248Z"
 }
