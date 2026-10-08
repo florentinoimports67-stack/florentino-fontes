@@ -2,169 +2,208 @@
   "fonts": [
     {
       "id": 1,
+      "sourceId": 1,
       "name": "Great Vibes",
       "cat": "script",
       "custom": false
     },
     {
       "id": 2,
+      "sourceId": 2,
       "name": "Alex Brush",
       "cat": "script",
       "custom": false
     },
     {
       "id": 3,
+      "sourceId": 3,
       "name": "Allura",
       "cat": "script",
       "custom": false
     },
     {
       "id": 5,
+      "sourceId": 8,
       "name": "Kaushan Script",
       "cat": "script",
       "custom": false
     },
     {
       "id": 9,
+      "sourceId": 12,
       "name": "Tangerine",
       "cat": "script",
       "custom": false
     },
     {
       "id": 11,
+      "sourceId": 14,
       "name": "Yellowtail",
       "cat": "script",
       "custom": false
     },
     {
       "id": 18,
+      "sourceId": 21,
       "name": "Playfair Display",
       "cat": "elegant",
       "custom": false
     },
     {
       "id": 21,
+      "sourceId": 24,
       "name": "DM Serif Display",
       "cat": "elegant",
       "custom": false
     },
     {
       "id": 23,
+      "sourceId": 27,
       "name": "Montserrat",
       "cat": "modern",
       "custom": false
     },
     {
       "id": 29,
+      "sourceId": 37,
       "name": "Bebas Neue",
       "cat": "strong",
       "custom": false
     },
     {
       "id": 35,
+      "sourceId": 44,
       "name": "Caveat",
       "cat": "hand",
       "custom": false
     },
     {
       "id": 38,
+      "sourceId": null,
       "name": "Amsterdam",
       "cat": "custom",
       "custom": true,
+      "ext": "ttf",
       "url": "fonts/38-amsterdam.ttf"
     },
     {
       "id": 41,
+      "sourceId": null,
       "name": "Madinah Authentic",
       "cat": "custom",
       "custom": true,
+      "ext": "ttf",
       "url": "fonts/41-madinah-authentic.ttf"
     },
     {
       "id": 42,
+      "sourceId": null,
       "name": "Michland Script",
       "cat": "custom",
       "custom": true,
+      "ext": "ttf",
       "url": "fonts/42-michland-script.ttf"
     },
     {
       "id": 43,
+      "sourceId": null,
       "name": "Wedding in the Starlight",
       "cat": "custom",
       "custom": true,
+      "ext": "ttf",
       "url": "fonts/43-wedding-in-the-starlight.ttf"
     },
     {
       "id": 44,
+      "sourceId": null,
       "name": "WestbrookTag PERSONAL USE ONLY",
       "cat": "custom",
       "custom": true,
+      "ext": "ttf",
       "url": "fonts/44-westbrooktag-personal-use-only.ttf"
     },
     {
       "id": 46,
+      "sourceId": null,
       "name": "Amelina Script",
       "cat": "custom",
       "custom": true,
+      "ext": "ttf",
       "url": "fonts/46-amelina-script.ttf"
     },
     {
       "id": 48,
+      "sourceId": null,
       "name": "Halimun",
       "cat": "custom",
       "custom": true,
+      "ext": "ttf",
       "url": "fonts/48-halimun.ttf"
     },
     {
       "id": 49,
+      "sourceId": null,
       "name": "High Spirited",
       "cat": "custom",
       "custom": true,
+      "ext": "ttf",
       "url": "fonts/49-high-spirited.ttf"
     },
     {
       "id": 50,
+      "sourceId": null,
       "name": "JunkyStyle Regular",
       "cat": "custom",
       "custom": true,
+      "ext": "ttf",
       "url": "fonts/50-junkystyle-regular.ttf"
     },
     {
       "id": 53,
+      "sourceId": null,
       "name": "FuturaCyrillicLight",
       "cat": "custom",
       "custom": true,
+      "ext": "ttf",
       "url": "fonts/53-futuracyrilliclight.ttf"
     },
     {
       "id": 54,
+      "sourceId": null,
       "name": "Herlando",
       "cat": "custom",
       "custom": true,
+      "ext": "otf",
       "url": "fonts/54-herlando.otf"
     },
     {
       "id": 55,
+      "sourceId": null,
       "name": "Lucian Schoenschrift CAT",
       "cat": "custom",
       "custom": true,
+      "ext": "ttf",
       "url": "fonts/55-lucian-schoenschrift-cat.ttf"
     },
     {
       "id": 56,
+      "sourceId": null,
       "name": "Pattaya Regular",
       "cat": "custom",
       "custom": true,
+      "ext": "ttf",
       "url": "fonts/56-pattaya-regular.ttf"
     },
     {
       "id": 57,
+      "sourceId": null,
       "name": "snellroundhand bold",
       "cat": "custom",
       "custom": true,
+      "ext": "otf",
       "url": "fonts/57-snellroundhand-bold.otf"
     }
   ],
   "whatsapp": "5579998282200",
-  "updatedAt": "2026-10-07T01:11:23.907Z"
+  "updatedAt": "2026-10-08T21:37:37.065Z"
 }
